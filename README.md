@@ -15,6 +15,7 @@ Features
 - Compile time checking of matrix dimensions via templates
 - Boundary checks when accessing elements in debug mode (prints warnings)
 - Internally identical to a 2D array
+- Permissive licence allowing it to be taken into any project and edited as suitable
 
 ----------
 Example
@@ -42,3 +43,8 @@ Limitations
 - No algorithm for matrix inversion or computation of eigenvalues or eigenvectors
 - No optimised algorithm for matrix multiplication
 - Quite slow in debug mode
+
+----------
+If you want something changed...
+--
+If you miss some feature or find a bug, do not hesistate to contact me about it, either via issues or via pull requests.
