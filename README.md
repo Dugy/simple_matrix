@@ -20,7 +20,7 @@ Features
 ----------
 Example
 --
-```
+```C++
 #include "simple_matrix.h"
 matrix<2, 2> A = {{2, 3}, {3, 1}; // declare+init 2x2 matrix
 matrix<3, 2> B = {{2, 3}, {0, 1}, {3, 1}}; // a 3x2 matrix
